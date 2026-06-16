@@ -23,7 +23,7 @@ Qua việc học tập từ video hướng dẫn và tài liệu mở rộng, em
 - **Kết quả:** Request gửi đi thành công, máy chủ phản hồi mã trạng thái `200 OK` và trả về body dạng JSON chứa dữ liệu chi tiết của user (id, password, first_name, last_name,...).
 
 *Hình minh họa gửi Request GET thành công:*
-![Gửi Request GET](./anh1_get_request.png)
+![Gửi Request GET](./fb23f31496dc17824ecd.jpg)
 
 ### Thao tác 3.2: Viết mã khẳng định (Assertion) tự động
 Em đã sử dụng các đoạn mã mẫu (Snippets) JavaScript của Postman để cấu hình kiểm tra tự động 2 điều kiện:
